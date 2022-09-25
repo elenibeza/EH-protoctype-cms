@@ -1,49 +1,17 @@
-# CONTRIBUTING
+# Welcome!
 
-Contributions are always welcome, no matter how large or small. Before contributing,
-please read the [code of conduct](CODE_OF_CONDUCT.md).
+We're so glad you're thinking about contributing to a [open source project of the U.S. government](https://code.gov/)! If you're unsure about anything, just ask -- or submit the issue or pull request anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
 
-## Setup
+We encourage you to read this project's CONTRIBUTING policy (you are here), its [LICENSE](LICENSE.md), and its [README](README.md).
 
-```sh
-$ git clone https://github.com/netlify/victor-hugo
-$ cd victor-hugo
-$ npm install
-```
+## Policies
 
-## Building
+We want to ensure a welcoming environment for all of our projects. Our staff follow the [TTS Code of Conduct](https://18f.gsa.gov/code-of-conduct/) and all contributors should do the same.
 
-```sh
-$ npm run build
-```
+We adhere to the [18F Open Source Policy](https://github.com/18f/open-source-policy). If you have any questions, just [shoot us an email](mailto:18f@gsa.gov).
 
-## Testing
+## Public domain
 
-```sh
-$ npm run test
-```
+This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
-```sh
-$ npm run test:watch
-```
-
-## Running the server
-
-```sh
-$ npm run start
-```
-
-## Pull Requests
-
-We actively welcome your pull requests.
-
-1. Fork the repo and create your branch from `master`.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Ensure the test suite passes.
-5. Make sure your code lints.
-
-## License
-
-By contributing to Victor-Hugo, you agree that your contributions will be licensed
-under its [MIT license](LICENSE).
+All contributions to this project will be released under the CC0 dedication. By submitting a pull request or issue, you are agreeing to comply with this waiver of copyright interest.
